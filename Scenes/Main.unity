@@ -608,7 +608,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: -0.000006209129}
+  m_AnchoredPosition: {x: 0, y: -0.000011459247}
   m_SizeDelta: {x: 0, y: 300}
   m_Pivot: {x: 0, y: 1}
 --- !u!1 &48285846
@@ -22705,7 +22705,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 100000, guid: 41e8ccc75c881f94eaf71b216b3b3898, type: 3}
       propertyPath: m_Name
-      value: CUBES_Title
+      value: Title_Cube
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 41e8ccc75c881f94eaf71b216b3b3898, type: 3}
       propertyPath: m_LocalPosition.x
